@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(60, 66, 90);
+    margin-top: 200px;
+}
+.blok{
+    display: flex;
+    gap: 50px;
+}
+.contener{
+    background-color: aliceblue;
+    text-align: center;
+    justify-content: center;
+    border: 10px;
+    padding:20px;
+    border-radius: 15px;
+}
+ h2{
+   background-color: rgb(50, 190, 132);
+   border-radius: 5px;
+}  
+button{
+    border-radius: 1px;
+    color: rgb(87, 57, 37);
+    text-align: center;
+    border-radius: 5px;
+}
+.ht{
+    font-weight:900;
+}
+.AA{
+    text-decoration: line-through;
+    color: rgb(102, 111, 119);
+
+}
+UL{
+    list-style: none;
+    padding: 0;
+}
+
+.ht a{ transform:  scale(1.05);
+    border: 2px solid;
+
+   }

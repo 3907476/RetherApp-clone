@@ -1,0 +1,60 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    padding: 11px 68px;
+    box-shadow: 0px 2px 10px grey;
+}
+.ul1{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    gap: 40px;
+}
+.ul1 li a{
+    text-decoration: none;
+    color: #151515;
+    font-size: 20px;
+    font-weight: 900;
+}
+section{
+    display: flex;
+    height: 600px;
+    padding: 80px 0 80px;
+    
+}
+.div2{
+    display: flex;
+    flex-direction: column;
+}
+.pp{
+    background-image: url(https://avatars.mds.yandex.net/i?id=1852cf8d2c70f01836aeafca8841d65e864e4dfd-10850495-images-thumbs&n=13);
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    width: 100%;
+}
+.div2 {
+    display: flex;
+    width: 50%;
+    justify-content: flex-end;
+    background-color: rgba(red, green, blue, alpha);
+    text-align: center;
+    justify-content: center;
+    border: 10px;
+    padding:20px;
+    border-radius: 15px;
+}
+.section {
+    display: flex;
+    height: 600px;
+    padding: 80px 0 80px;
+    
+}
+
